@@ -1,0 +1,25 @@
+{
+  "name": "rightclick",
+  "version": "1.0.0",
+  "description": "MEAN",
+  "main": "server.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parpulo/rightclick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parpulo/rightclick/issues"
+  },
+  "homepage": "https://github.com/Parpulo/rightclick#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongojs": "^2.4.0"
+  }
+}
